@@ -1,0 +1,6 @@
+framework module Pods_FBAppTwo {
+  umbrella header "Pods-FBAppTwo-umbrella.h"
+
+  export *
+  module * { export * }
+}
